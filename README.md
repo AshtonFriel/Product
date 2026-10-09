@@ -1,4 +1,3 @@
-~~~~markdown
 # Products App
 
 A minimal Products app: React frontend, Spring Boot API and Postgres. You can list products and create a product.
